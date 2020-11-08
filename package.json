@@ -1,0 +1,24 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "Skeeper Loyalties",
+  "main": "index.js",
+  "scripts": {
+    "test": "help"
+  },
+  "keywords": [
+    "skeeper"
+  ],
+  "author": "Loyaltie",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.13",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-newer": "^1.4.0",
+    "gulp-noop": "^1.0.1",
+    "gulp-size": "^3.0.0"
+  },
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}
